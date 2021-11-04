@@ -14,7 +14,7 @@
     <name>testSpringBoot</name>
     <description>testSpringBoot</description>
     <properties>
-        
+
     </properties>
     <dependencies>
         <dependency>
@@ -84,6 +84,7 @@
                     <source>11</source>
                     <target>11</target>
                     <verbose>true</verbose>
+                    <release>11</release>
                 </configuration>
             </plugin>
         </plugins>
