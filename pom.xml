@@ -87,6 +87,7 @@
                     <source>11</source>
                     <target>11</target>
                     <verbose>true</verbose>
+                    <release>${java.version}</release>
                 </configuration>
             </plugin>
         </plugins>
